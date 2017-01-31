@@ -1,0 +1,1 @@
+cmd_/home/diana/dianaArrieta/DianaArrieta/practica20/llamado.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.16.0-4-common/scripts/module-common.lds --build-id  -o /home/diana/dianaArrieta/DianaArrieta/practica20/llamado.ko /home/diana/dianaArrieta/DianaArrieta/practica20/llamado.o /home/diana/dianaArrieta/DianaArrieta/practica20/llamado.mod.o
